@@ -54,36 +54,6 @@ available:  Open to opportunities
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗️ Enterprise-Grade Distributed Architecture
-> Deployed a scalable multi-tier production environment integrating NGINX as a load balancer & reverse proxy, Apache Tomcat for backend processing, RabbitMQ for async message queuing, and MySQL for persistence — all on Linux.
-
-`NGINX` `Apache Tomcat` `RabbitMQ` `MySQL` `Linux`
-
----
-
-### ☁️ Containerized Microservices on AWS
-> Architected and deployed containerized microservices with HTTPS termination, automated CI/CD via GitHub Actions, and real-time CloudWatch monitoring on AWS EC2 & App Runner.
-
-`Docker` `AWS EC2` `AWS App Runner` `GitHub Actions` `CloudWatch`
-
----
-
-### 📱 Full-Stack Mobile & Web Applications
-> End-to-end applications across web and mobile platforms — REST API backends, cloud-hosted databases, and modern frontend interfaces.
-
-`Java EE` `React Native` `Angular` `Firebase`
-
----
-
-### 🤖 IoT Automation Platform
-> Built embedded IoT systems for real-time device control, integrating environmental sensors, Bluetooth modules, and motor controllers.
-
-`ESP32` `Arduino` `Bluetooth` `C++`
-
----
-
 ## 📜 Certifications
 
 | Certificate | Issuer |
