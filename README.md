@@ -19,7 +19,6 @@ name:       Ravindu Dasanayaka
 location:   Kurunegala, Sri Lanka 🇱🇰
 role:       Cloud-Driven Full Stack Software Engineer
 focus:      Cloud Infrastructure · Backend Engineering · Distributed Systems
-available:  Open to opportunities
 ```
 
 ---
